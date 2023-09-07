@@ -134,6 +134,48 @@
 
 
 </section>
+<!-- om mig card-->
+<section id="om">
+    <div class=" container">
+        <div class="row justify-content-center">
+            <div class="card m-3">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="images/michael.png" class="img-fluid rounded-circle rounded-start" alt="michael billede">
+                    </div>
+                    <div class=" col-sm-12 col-md-8 ">
+                        <div class="card-body">
+                            <h5 class="card-title">ophavsret</h5>
+                            <p class="card-text"> alt hvad der vises her er originalt og tilhører mig</p>
+                            <h5 class="card-title">Om Mig</h5>
+                            <p class="card-text"> Jeg hedder Michael, jeg er 24 år gammel, jeg har cerebral parese hvliket betyder jeg spastisk lammet i min ene arm og i mine ben.mine ambitioner for fremtiden er enten frontend design eller grafisk design. jeg er specialiseret i avanceret digital udvikling </p>
+                            <h5 class="card-title"> færdigheder</h5>
+                            <p><ul>
+                                <li>bootstrap</li>
+                                <li>html</li>
+                                <li>css</li>
+                                <li>illustrator</li>
+                                <li>photoshop</li>
+                                <li>premier pro</li>
+
+                            </ul>
+                            <h5>kontaktoplysninger
+                            </h5>
+                            <p> mail: mich.1999@hotmail.com</p>
+                            <p> tlf nummer: 29881697</p>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
 
 
 
