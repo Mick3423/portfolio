@@ -10,8 +10,9 @@
 	<meta name="copyright" content="Information om copyright">
 	
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
 <body>
