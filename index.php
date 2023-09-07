@@ -93,6 +93,50 @@
 
 
 </section>
+<!--egneprojekter card gruppe-->
+<section id="fritid">
+    <div class="container m-3">
+        <div class="row">
+            <div>
+                <h2>fritids projekter</h2>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="card">
+                    <img src="images/space%20test-01.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">rum og rumvæsen illustration</h5>
+                        <p class="card-text">efter en plakatopgave der blev lavet på skolen blev fik jeg lyst til at lave en illustration af et rumvæsen i flyvende tallerken i rummet .</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="card">
+                    <img src="images/skull-01.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">skull</h5>
+                        <p class="card-text">jeg blev inspireret af et  show ved navn Bleach til at prøve at lave det her stylized kranium i illustrator .</p>
+
+                    </div>
+                </div>
+            </div>
+            <div class=" col-12 col-md-6 col-lg-4 ">
+                <div class="card">
+                    <img src="images/turtle%20shell-01.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">skildpaddeskjold</h5>
+                        <p class="card-text">.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+
+
+
 
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
