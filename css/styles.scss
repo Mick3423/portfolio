@@ -11,6 +11,7 @@ $link-decoration: none;
 // 4. Include any default map overrides here
 $custom-colors: (
 	"farve": $cyan-400,
+	"primary": #3CB371
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
@@ -18,3 +19,16 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 @import "bootstrapComponents";
 
 // 5. Du kan lave styling her...
+a{ text-decoration: none; color:#3a3a3c; }
+a:visited { text-decoration: none; color:#3a3a3c; }
+a:hover { text-decoration: none; color: #8b8b8d; }
+a:hover, a:active { text-decoration: none; color: #aeaeb1 }
+
+.card {
+	border:none ;
+}
+
+*{
+	font-family: 'Roboto', sans-serif;
+
+}
