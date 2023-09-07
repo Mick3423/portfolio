@@ -52,14 +52,14 @@
     <div class="container m-3">
         <div class="row">
             <div>
-                <h2>skoleprojekter</h2>
+                <h2>Skoleprojekter</h2>
             </div>
 
             <div class="card col-12 col-md-6 col-lg-4">
                 <img src="images/foto%20film%20fællesskab%20logo.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title text-uppercase">p2p foto og videoeksamensopgave</h5>
-                    <p class="card-text"> denne opgave gik ud på at men skulle opsætte en hjemmeside for en b2b virksomhed.</p>
+                    <h5 class="card-title text-uppercase">p2p foto og film eksamenside</h5>
+                    <p class="card-text"> Denne opgave gik ud på at men skulle opsætte en hjemmeside for udlån af udstyr en fiktiv p2p virksomhed.</p>
                     <a href="http://multimediemichael.dk/eksamen%202/index.html" class="btn btn-primary"> hjemmesiden jeg lavet</a>
 
                 </div>
@@ -69,7 +69,7 @@
                     <img src="images/vilma_logo.png" class="card-img-top" alt="vilmalogo">
                     <div class="card-body">
                         <h5 class="card-title  text-uppercase">filmfetival</h5>
-                        <p class="card-text">denne opgave gik ud på at lave en app til en fiktiv filmfestival hvor man kunne se hvad der spillede af film og hvilke gæster der kom på de valgte dage jeg har været en del af kodningen til appen</p>
+                        <p class="card-text">denne opgave gik ud på at lave en app til en fiktiv filmfestival. Hvor man kunne se hvad der spillede af film, og hvilke gæster der kom på de valgte dage. jeg har været en del af kodningen til appen</p>
                         <a href="http://multimediemichael.dk/temaopgave/index.php" class="btn btn-primary"> appen</a>
 
                     </div>
@@ -80,7 +80,7 @@
 
             <div class="col-12 col-md-6 col-lg-4 ">
                 <div class="card ">
-                    <img src="images/spjæt%20maskot-01.png" class="card-img-top" alt="...">
+                    <img src="images/spjæt%20maskot-01.png" class="card-img-top" alt="maskot"">
                     <div class="card-body">
                         <h5 class="card-title  text-uppercase">børnetøjbutik maskot</h5>
                         <p class="card-text">denne opgave handlede om at lave en maskot til en børnetøjbutik </p>
@@ -102,24 +102,24 @@
     <div class="container m-3">
         <div class="row">
             <div>
-                <h2>fritids projekter</h2>
+                <h2>Fritids projekter</h2>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="card">
-                    <img src="images/space%20test-01.png" class="card-img-top" alt="...">
+                    <img src="images/space%20test-01.png" class="card-img-top" alt="rumvæsen">
                     <div class="card-body">
                         <h5 class="card-title text-uppercase">rum og rumvæsen illustration</h5>
-                        <p class="card-text">efter en plakatopgave der blev lavet på skolen blev fik jeg lyst til at lave en illustration af et rumvæsen i flyvende tallerken i rummet .</p>
+                        <p class="card-text">efter en plakatopgave der blev lavet på skolen, fik jeg lyst til at lave en illustration, af et rumvæsen i en flyvende tallerken i rummet .</p>
 
                     </div>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="card">
-                    <img src="images/skull-01.png" class="card-img-top" alt="...">
+                    <img src="images/skull-01.png" class="card-img-top" alt="skull">
                     <div class="card-body">
                         <h5 class="card-title text-uppercase">skull</h5>
-                        <p class="card-text">jeg blev inspireret af et  show ved navn Bleach til at prøve at lave det her stylized kranium i illustrator .</p>
+                        <p class="card-text">jeg blev inspireret af et  show ved navn Bleach til at prøve at lave, det her stylized kranium i illustrator .</p>
 
                     </div>
                 </div>
@@ -128,8 +128,8 @@
                 <div class="card">
                     <img src="images/turtle%20shell-01.png" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title text-uppercase">skildpaddeskjold</h5>
-                        <p class="card-text">jeg lavet dette skildpadde skjold fordi jeg blev inspireret af en af mine barndons yndlingserier ninja turtles.</p>
+                        <h5 class="card-title text-uppercase">skildpadde skjold</h5>
+                        <p class="card-text">jeg lavet dette skildpadde skjold fordi jeg blev inspireret af en af mine barndoms yndlingserier ninja turtles.</p>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                             <h5 class="card-title">ophavsret</h5>
                             <p class="card-text"> alt hvad der vises her er originalt.</p>
                             <h5 class="card-title">Om Mig</h5>
-                            <p class="card-text"> Jeg hedder Michael, jeg er 24 år gammel, jeg har cerebral parese, hvliket betyder jeg er spastisk lammet i min højre arm og i mine ben. jeg valgte uddannelsen som multimediedesigner fordi jeg synes det lød spændende at lærer hvordan man designer og sætter en hjemmeside op.mine ambitioner for fremtiden er enten frontend design eller grafisk design. jeg er specialiseret i avanceret digital udvikling </p>
+                            <p class="card-text"> Jeg hedder Michael, jeg er 24 år gammel og jeg har cerebral parese, hvliket betyder jeg er spastisk lammet i min højre arm og i mine ben. jeg valgte uddannelsen som multimediedesigner fordi jeg synes det lød spændende at lærer hvordan man designer og sætter en hjemmeside op.mine ambitioner for fremtiden er enten frontend design eller grafisk design. jeg er ved at blive specialiseret i avanceret digital udvikling </p>
                             <h5 class="card-title"> færdigheder</h5>
                             <p><ul>
                                 <li>bootstrap</li>
@@ -163,7 +163,7 @@
                                 <li>premier pro</li>
 
                             </ul>
-                            <h5>kontaktoplysninger
+                            <h5>Kontaktoplysninger
                             </h5>
                             <p> mail: mich.1999@hotmail.com</p>
                             <p> tlf nummer: 29881697</p>
