@@ -44,6 +44,56 @@
     </div>
 </nav>
 
+<!--skoleopgaver -->
+<section  id="skoleopgaver">
+    <div class="container m-3">
+        <div class="row">
+            <div>
+                <h2>skoleprojekter</h2>
+            </div>
+
+            <div class="card col-12 col-md-6 col-lg-4">
+                <img src="images/foto%20film%20fællesskab%20logo.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-uppercase">b2b foto og videoeksamensopgave</h5>
+                    <p class="card-text"> denne opgave gik ud på at men skulle opsætte en hjemmeside for en b2b virksomhed.</p>
+                    <a href="http://multimediemichael.dk/eksamen%202/index.html" class="btn btn-primary"> hjemmesiden jeg lavet</a>
+
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="card">
+                    <img src="images/playstation%20mønster-05.png" class="card-img-top" alt="mønsteropgave">
+                    <div class="card-body">
+                        <h5 class="card-title  text-uppercase">mønster opgave</h5>
+                        <p class="card-text">denne opgave gik ud på at lave et mønster ud fra et brand og med det valgte jeg playstation som brand og med inspiration fra memphis design stilen og playstations symboer kom jeg frem til dette</p>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+            <div class="col-12 col-md-6 col-lg-4 ">
+                <div class="card ">
+                    <img src="images/spjæt%20maskot-01.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title  text-uppercase">børnetøjbutik maskot</h5>
+                        <p class="card-text">denne opgave handlede om at lave en maskot til en børnetøjbutik </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+
+</section>
+
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
